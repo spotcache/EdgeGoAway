@@ -1,11 +1,10 @@
 # 🛑 Remove Microsoft Edge Permanently
 
-A comprehensive solution to **delete Microsoft Edge** from Windows and block it from reinstalling during updates. This tool is for educational purposes only. Use responsibly.
+I was pretty bummed when I get to see "Edge" on every one of my fresh installs of windows, So I went ahead and made this!. This tool is for educational purposes only. Use responsibly.
 
 ## 🚀 Features
 - Removes Microsoft Edge from Windows.
 - Blocks Edge from returning with future updates.
-- Lightweight and easy to use.
 
 ## 📋 Requirements
 - Windows 10 or 11
